@@ -20,6 +20,6 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: Linux",
-    ]
+    ],
     python_requires=">=3.10"
 )
