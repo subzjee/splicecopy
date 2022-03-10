@@ -8,6 +8,6 @@ setup(
     author_email='stanbergevoet@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/subzjee/splicecopy',
     keywords='copy fastcopy linux',
 )
