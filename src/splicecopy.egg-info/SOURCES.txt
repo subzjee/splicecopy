@@ -1,9 +1,0 @@
-LICENSE.txt
-README.md
-setup.cfg
-setup.py
-src/splicecopy/__init__.py
-src/splicecopy.egg-info/PKG-INFO
-src/splicecopy.egg-info/SOURCES.txt
-src/splicecopy.egg-info/dependency_links.txt
-src/splicecopy.egg-info/top_level.txt
